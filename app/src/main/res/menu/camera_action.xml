@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/one2"
+        android:title="View QR code"/>
+
+    <item
+        android:id="@+id/one3"
+        android:title="Scan QR code"/>
+
+</menu>

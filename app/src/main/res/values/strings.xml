@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Oneiros</string>
+    <string name="header">Header</string>
+
+
+    <!-- Facebook-->
+    <string name="facebook_app_id">873042386194760</string>
+    <string name="fb_login_protocol_scheme">fb873042386194760</string>
+
+
+
+
+    <!-- Element Transaction -->
+    <string name="Card_to_Event">C2E</string>
+
+</resources>
