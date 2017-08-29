@@ -15,6 +15,8 @@ import java.util.List;
 
 /**
  * Created by aesher on 8/27/2017.
+ * Again the recycler view
+ * Todo Remove this too with the newly updated card
  */
 
 public class events_adapter  extends RecyclerView.Adapter<events_adapter.MyViewHolder>{

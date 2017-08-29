@@ -1,9 +1,9 @@
 package com.muj.android.oneiros.fragments;
 
 import android.content.Intent;
-import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.PopupMenu;
 import android.widget.ScrollView;
+
 import com.muj.android.oneiros.R;
 import com.muj.android.oneiros.activities.event_list;
 
@@ -21,6 +22,7 @@ import butterknife.OnClick;
 
 /**
  * Created by aesher on 8/24/2017.
+ * XML resource can be found by the name if fragment_dashboard
  */
 
 public class Dashboard extends Fragment {

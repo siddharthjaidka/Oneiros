@@ -1,8 +1,8 @@
 package com.muj.android.oneiros.activities;
 
+import android.animation.Animator;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.os.Handler;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
@@ -15,7 +15,6 @@ import android.view.View;
 import android.view.ViewAnimationUtils;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
-import android.animation.Animator;
 import android.widget.TextView;
 
 import com.muj.android.oneiros.R;
@@ -29,11 +28,20 @@ import devlight.io.library.ntb.NavigationTabBar;
 
 /**
  * Created by aesher on 8/25/2017.
+ * The event list activity. XML resource can be found with the name of activity_eventview
  */
 
 
 
 public class event_list extends AppCompatActivity {
+
+
+    /**
+     * @param Adapter -> object of events_adapter aka the recycler view
+     * @param Provider -> Object of the provider to the recycler view.
+     * @param CLUBNAME -> Simple Array of the club names
+     */
+
 
 
     events_adapter Adapter;
@@ -48,10 +56,12 @@ public class event_list extends AppCompatActivity {
         Provider = new ArrayList<>();
         Adapter = new events_adapter(getApplicationContext(),Provider);
 
+        //TOdo -> check  the array matches with the data of the club name provided
         final String CLUBNAME[] = {"Today's Events","Aperture","Cinefilia","Shabd","The Music Club","Coreografia","Scribbles","Litmus","Sophia","Aashis"};
 
 
         final ViewPager viewPager = (ViewPager) findViewById(R.id.vp_vertical_ntb);
+        viewPager.setOffscreenPageLimit(1);
         viewPager.setAdapter(new PagerAdapter() {
             @Override
             public int getCount() {
@@ -90,7 +100,7 @@ public class event_list extends AppCompatActivity {
                 Recycle.setNestedScrollingEnabled(false);
 
 
-                for (int i =0 ; i<=position;i++){
+                for (int i =1 ; i<=position;i++){
                     event_provider p1 = new event_provider( R.drawable.mojo_default);
                     Provider.add(p1);
                 }
@@ -105,20 +115,6 @@ public class event_list extends AppCompatActivity {
                 l2= (LinearLayout) view.findViewById(R.id.superMagic);
                 l1.setBackgroundColor(Color.parseColor(colors[position]));
                 tOolbar.setBackgroundColor(Color.parseColor(colors[position]));
-
-
-                Handler handler = new Handler();
-                Runnable runnable = new Runnable() {
-                    @Override
-                    public void run() {
-                        int cx = floatingActionButton.getWidth();
-                        int cy = floatingActionButton.getHeight();
-                        float finalRadius = (float) Math.hypot(cx, cy)+100;
-                        Animator anim = ViewAnimationUtils.createCircularReveal(floatingActionButton,cx,cy,0,finalRadius);
-                        floatingActionButton.setVisibility(View.VISIBLE);
-                        anim.start();}
-                }; handler.postDelayed(runnable,500);
-
 
 
                 floatingActionButton.setOnClickListener(new View.OnClickListener() {
@@ -138,6 +134,10 @@ public class event_list extends AppCompatActivity {
                 return view;
             }
         });
+
+
+
+
 
         final String[] colors = getResources().getStringArray(R.array.vertical_ntb);
         final NavigationTabBar navigationTabBar = (NavigationTabBar) findViewById(R.id.ntb_vertical);
@@ -226,8 +226,15 @@ public class event_list extends AppCompatActivity {
         );
 
 
+
+
+
+
+
+
+
         navigationTabBar.setModels(models);
-        navigationTabBar.setViewPager(viewPager, 4);
+        navigationTabBar.setViewPager(viewPager, 1);
 
     }
 
