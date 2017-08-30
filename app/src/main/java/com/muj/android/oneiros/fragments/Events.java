@@ -44,6 +44,10 @@ public class Events extends Fragment{
     ImageView I1;
     @BindView(R.id.expand_EC)
     LinearLayout l1;
+    @BindView(R.id.expand_OC)
+    LinearLayout l3;
+    @BindView(R.id.expand_CC)
+    LinearLayout l2;
     @BindView(R.id.adding_Executive)
     CardView c2;
     @BindView(R.id.adding_CC)
@@ -53,10 +57,11 @@ public class Events extends Fragment{
 
 
 
+
+
     @OnClick(R.id.card)
     public void hide(){
         c1.setVisibility(View.GONE);
-
 
        //Set the visibility of the team
         Handler handler1 = new Handler();
@@ -111,6 +116,17 @@ public class Events extends Fragment{
     @OnClick(R.id.adding_Executive)
     public  void Show_EXE(){
             l1.setVisibility(View.VISIBLE);
+    }
+
+
+    @OnClick(R.id.adding_CC)
+    public  void ADDCC(){
+        l2.setVisibility(View.VISIBLE);
+    }
+
+    @OnClick(R.id.adding_OC)
+    public void ADDOC(){
+        l3.setVisibility(View.VISIBLE);
     }
 
 
