@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:257029899239:android:b66828a2d522c888",
+        "mobilesdk_app_id": "1:257029899239:android:bb153a62c2f56eb1",
         "android_client_info": {
-          "package_name": "com.muj.androdi.oneiros"
+          "package_name": "com.muj.android.oneiros"
         }
       },
       "oauth_client": [
         {
-          "client_id": "257029899239-7pvogvgif3703t2t9fm5cf4cleajtkd0.apps.googleusercontent.com",
+          "client_id": "257029899239-ege17dj79a9t3hl6bi5inm8dkfh15d01.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.muj.androdi.oneiros",
+            "package_name": "com.muj.android.oneiros",
             "certificate_hash": "ef7c8e181df79ee340f3d3e17c957cb8cc3c4a33"
           }
         },
