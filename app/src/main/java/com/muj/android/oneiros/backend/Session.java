@@ -1,4 +1,4 @@
-package yours.appli_wea_rep.ono_clubs2;
+package com.muj.android.oneiros.backend;
 
 import android.content.Context;
 import android.content.SharedPreferences;
