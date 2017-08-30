@@ -144,27 +144,24 @@ public class event_list extends AppCompatActivity {
         final ArrayList<NavigationTabBar.Model> models = new ArrayList<>();
         models.add(
                 new NavigationTabBar.Model.Builder(
-                        getResources().getDrawable(R.drawable.ic_share),
+                        getResources().getDrawable(R.drawable.ono_today),
                         Color.parseColor(colors[0]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
                         .build()
         );
         models.add(
                 new NavigationTabBar.Model.Builder(
-                        getResources().getDrawable(R.drawable.ic_share),
+                        getResources().getDrawable(R.drawable.ono_aperture),
                         Color.parseColor(colors[1]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
                         .build()
         );
 
         models.add(
                 new NavigationTabBar.Model.Builder(
-                        getResources().getDrawable(R.drawable.ic_share),
+                        getResources().getDrawable(R.drawable.ono_cini),
                         Color.parseColor(colors[2]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
                         .build()
         );
         models.add(
@@ -172,47 +169,42 @@ public class event_list extends AppCompatActivity {
                         getResources().getDrawable(R.drawable.ic_share),
                         Color.parseColor(colors[3]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
+                        .selectedIcon(getResources().getDrawable(R.drawable.ono_hindi))
                         .build()
         );
         models.add(
                 new NavigationTabBar.Model.Builder(
-                        getResources().getDrawable(R.drawable.ic_share),
+                        getResources().getDrawable(R.drawable.ono_tmc),
                         Color.parseColor(colors[4]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
                         .build()
         );
         models.add(
                 new NavigationTabBar.Model.Builder(
-                        getResources().getDrawable(R.drawable.ic_share),
+                        getResources().getDrawable(R.drawable.ono_coreo),
                         Color.parseColor(colors[5]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
                         .build()
         );
         models.add(
                 new NavigationTabBar.Model.Builder(
-                        getResources().getDrawable(R.drawable.ic_share),
+                        getResources().getDrawable(R.drawable.ono_scribb),
                         Color.parseColor(colors[6]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
                         .build()
         );
         models.add(
                 new NavigationTabBar.Model.Builder(
-                        getResources().getDrawable(R.drawable.ic_share),
+                        getResources().getDrawable(R.drawable.ono_litmus),
                         Color.parseColor(colors[7]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
                         .build()
         );
         models.add(
                 new NavigationTabBar.Model.Builder(
-                        getResources().getDrawable(R.drawable.ic_share),
+                        getResources().getDrawable(R.drawable.ono_shabd),
                         Color.parseColor(colors[8]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
                         .build()
         );
 
@@ -221,7 +213,6 @@ public class event_list extends AppCompatActivity {
                         getResources().getDrawable(R.drawable.ic_share),
                         Color.parseColor(colors[2]))
                         .title("ic_first")
-                        .selectedIcon(getResources().getDrawable(R.drawable.ic_arrow))
                         .build()
         );
 
