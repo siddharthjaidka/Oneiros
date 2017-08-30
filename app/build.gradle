@@ -47,6 +47,7 @@ dependencies {
     //For ease of coding
     compile 'com.jakewharton:butterknife:8.7.0'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.7.0'
-
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.android.support.constraint:constraint-layout-solver:1.0.2'
     testCompile 'junit:junit:4.12'
 }
