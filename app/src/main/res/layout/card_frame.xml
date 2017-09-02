@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"
             android:textSize="18dp"
-            android:id="@+id/card_name"
+            android:id="@+id/event_name"
             android:text="Star Gazing"
             android:textColor="@android:color/black"
             android:layout_centerHorizontal="true"
@@ -27,19 +27,19 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/card_name"
+            android:layout_below="@id/event_name"
             android:layout_marginTop="6dp"
             android:textColor="#383636"
             android:layout_centerHorizontal="true"
             android:text="Dome Building"
-            android:id="@+id/card_location"/>
+            android:id="@+id/event_time"/>
         <View
             android:layout_width="match_parent"
             android:layout_height="0.5dp"
             android:layout_marginTop="12dp"
             android:layout_marginLeft="40dp"
             android:layout_marginRight="40dp"
-            android:layout_below="@id/card_location"
+            android:layout_below="@id/event_time"
             android:id="@+id/card_devider"
             android:background="@android:color/black"
             />
@@ -53,7 +53,7 @@
             android:textColor="@android:color/black"
             android:layout_centerHorizontal="true"
             android:text="Star Gazing Event is happining in front of  Dome Building Will be a fun event and it is going to be legend.. wait for it dary... :p\n\n\tI repeat will the real slim shade please stand up...."
-            android:id="@+id/card_discription"/>
+            android:id="@+id/evnet_discription"/>
         </RelativeLayout>
     </android.support.v7.widget.CardView>
 
