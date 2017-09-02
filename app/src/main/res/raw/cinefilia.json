@@ -1,0 +1,266 @@
+{
+	"name":"cinefilia",
+	"events": [{
+			"name": "Aawaz(Street Play Competition)",
+			"event_description": [
+				"Hunkar ho ya dahaad",
+				"Subko yeh batlayenge ",
+				"Danke ki chot pe",
+				"Awaaz hum uthaenge",
+				"Aaksar hum aapne mann ki awaz daba dete hai yeh soch kar ki duniyan kya bole gi. Hum aapni aawaz nahi uthate sahi ko sahi aur galat ko galat btane ke liye. Iss duniyaan main kitni galat cheezay hoti hai jinhe sirf ek munch chiye hota hai darshane ke liye. Toh hum cinefilia the dramatics club of muj,aapko yeh avsar dete hai ki aap humare nukkad nattak pratyogita aawaz main bhag le aur bole KI KUCH GALAT HAI!!"
+			],
+			"rules": [
+				"Time limit will be 20mins. Anyone exceeding it will be awarded negative points. ",
+				"The team should consists of 15-20 members.",
+				"The combination of kurta and chunni should be per informed. ",
+				"The play shall exhibit a social message. ",
+				"No electronic and prerecorded sounds are allowed.",
+				"Use of props is allowed. Organizing team will not provide any props. The teams should come with their own props, if there are any.",
+				"Languages used shall be English or Hindi or both.",
+				"Explicit, abusive or vulgar content will not be allowed.",
+				"Only the teams clearing the prelims will be allowed to perform.",
+				"The judge’s decision will be final and binding.",
+				"One can register their team online.",
+				"Registration fees is Rs. 100/person which has to be paid on spot when teams arrive.",
+				"Registration to be done at least 2hrs prior to prelims. "
+			],
+			"judging_criteria": [
+				"Coordination",
+				"Script",
+				"Clarity of script",
+				"Formations ",
+				"Audience interaction ",
+				"Area usage ",
+				"Timing"
+			],
+			"registration_fees": "Rs. 100 per member.",
+			"event_contact": [
+				{
+					"name": "Shruti Dhar",
+					"mob": "9660394908/9179928993"
+				},
+				{
+					"name": "Nimer Amol Singh",
+					"mob": "9999206661"
+				},
+				{
+					"name": "Tushti",
+					"mob": "968776672"
+				}]
+				},
+				{
+					"name": "Rangmanch(Stage Play Competition)",
+					"event_description": [
+						"All the world’s a stage,",
+						"And all the men and women merely players.",
+						"The stage is set. The lights fade in, curtains are up, the actors get into their characters, and here starts the show. Amidst the drum rolls, swaying swords, moving words, blazing lights, you have to capture the audience with your gestures so subtle and emotions so strong, definitely as lovely as it sounds. If you are ready to portray someone you're not with all the zeal you have, then this is your chance!",
+						"Participation will be through online entry and fees will be paid at on-spot registration desk.  Lighting will be provided but any specific schemes has to brought by the teams. There will be a preliminary round in which the screening will be done and the final performing 5 teams will be selected. The teams will perform their play in front of audience and judges. The play can be in English or Hindi or both."
+					],
+					"rules": [{
+						"title": "PRELIMS",
+						"round_description":["Each team will have to go through a 10 minutes preliminary round in which they have to perform the best part of their skit which gives a brief idea about the play.",
+						"Teams need to submit a copy of their script beforehand, at least 3-4 hours before the competition."
+						]
+					},
+					{
+						"title":"FINALS",
+						"round_duration:":"40-50mins.",
+						"round_description":["There'll be negative marking if a team exceeds given time limit.",
+						"Medium: Hindi or English or both.",
+						"All clothes accessories and props of the play are to be arranged by participating team.",
+						"The organizing committee is responsible only for the infrastructural facilities (Green Room).",
+						"Obscenity (at the discretion of the judges) of any kind is not allowed and will lead to immediate disqualification.",
+						"The decision of the judges will be final and binding.",
+						"Participants must bring the background music of the skit in standard secondary storage device.",
+						"The Organizing Committee has the right to mend rules, disqualify entries or cancel or cut-short the event."
+					]
+					}],
+					"judging_criteria":[
+						"Originality.",
+						"Stage set up and use of space.",
+						"Flow of content.",
+						"Voice Clarity.",
+						"Acting skills.",
+						"Clarity of the idea delivered.",
+						"Impact of the play.",
+						"Audience Reaction."
+					],
+					"registration_fees":"Rs. 200 per member",
+					"event_contact":[
+						{"name":"Aditya Aggarwal","mob":"9910355173"},
+						{"name":"Loveena Sharma","mob":"800363173"}
+					]
+				},
+				{
+					"name":"MONO ACT",
+					"event_description":"MONO ACT is a super fun event designed to test the mettle of limelight huggers. One can enact different characters using different tones, styles, dialogue delivery, expression, voice boundaries and much more. Portrayal of each character should be distinct. Costume change according to characters is not necessary. The one stop destination and platform that all actors have been waiting for is finally here!",
+					"rules":[
+						"You have to come prepared with your own theme.",
+						"Timer will start as soon as the participant gets on stage.",
+						"Participant have to perform for minimum of 3 minutes and maximum of 5 minutes.",
+						"Obscenity and offensive gestures are strictly not allowed.",
+						"A warning bell will be rung past 3 minutes, 4 minutes and 5 minutes. Participants will not be allowed to perform after the 3rd warning bell.",
+						"Pre Recorded music (if any) have to be submitted at least 2 hours before the performance.",
+						"Decision of judges will be final and binding.",
+						"Violation to any rule may result in disqualification."
+					],
+					"judging_criteria":[
+						"Voice Modulation",
+						"Variety of characters",
+						"Flow of expressions",
+						"Acting skills",
+						"Audience Impact",
+						"Stage Utilization"
+					],
+					"registration_fees":"Rs. 100 per person",
+					"event_contact":[
+						{"name":"Mohit Singh","mob":"9660170986","whatsApp":"9568028177"},
+						{"name":"Apoorva Tiwari","mob":"8696232271","whatsapp":"9936549008"}
+					]
+				},
+				{
+					"name":"Humor Us",
+					"event_description":[
+						"Are you the person who brings the life to a group? Do you think you have the wits to tickle the funny bone? Then here is your opportunity to showcase your hilarious talent! Show us your funny bone. It doesn't matter if you do deadpan, intelligent, satirical or slapstick comedy. If you can make people laugh, this is the place for you.",
+						"So, come on. Put on your lucky shoes and take the stage. Let the comedian in you out for everybody to appreciate, and more importantly, humor us!"
+					],
+					"rules":[
+						{
+							"title":"PRELIMS",
+							"round_duration":"Each of the participants will get 3 minutes of stage time.",
+							"round_description":[
+								"Usage of any kind of prop is not allowed during the performance. ",
+								"Performance in a pair is allowed. ",
+								"Performer may interact with the audience to make his/her performance interesting. ",
+								"No cuss words are allowed.",
+								"The participant has to mail his/her “Topic” of performance to the event coordinators 1 day prior to the event. ",
+								"Explicit content should be avoided. ",
+								"The participant can choose to perform in either English or Hindi only. ",
+								"The Organizing Committee has the right to mend rules, disqualify entries or cancel or cut-short the event.",
+								"Decisions of the jury are final and no requests for reconsideration will be entertained."
+							]
+						},
+						{
+							"title":"Finals",
+							"round_duration":"Each of the participants will get 5 minutes of stage time.",
+							"round_description":[
+								"Each participants will get 5 minutes of stage time.",
+								"Usage of any kind of prop is not allowed during the performance. ",
+								"Performance in a pair is allowed. ",
+								"Performer may interact with the audience to make his/her performance interesting. ",
+								"No cuss words are allowed. ",
+								"The participant has to mail his/her “Topic” of performance to the event coordinators 1 day prior to the event. ",
+								"Explicit content should be avoided. ",
+								"The participant can choose to perform in either English or Hindi only. ",
+								"The Organizing Committee has the right to mend rules, disqualify entries or cancel or cut-short the event.",
+								"Decisions of the jury are final and no requests for reconsideration will be entertained."
+							],
+							"judging_criteria":[
+								"Negative marks will be awarded if the participant exceeds the time limit. ",
+								"The participant will be judged on the basis of originality, creativity, humour, audience interaction and reactions. ",
+								"Marks will deducted on the use of abusive language. ",
+								"Direct profanity might be judged negatively depending on the judges. Subtlety is the way to go."
+							],
+							"registration_fees":"Rs. 200 per person",
+							"event_contact":[
+								{
+									"name":"Akash Johnson",
+									"mob":"9716698330"
+								},
+								{
+									"name":"Soumya Goel",
+									"mob":"9660272403"
+								}
+							]
+						}
+					]
+				},
+				{
+					"title":"Ad-mak",
+					"event_description":[
+						"\"Hey, have you seen the new shampoo ad?\"",
+						"\"Oh that one? Yeah I did, but didn't really like it much.\"",
+						"We're sure you've had a similar conversation.",
+						"But do you have the guts to actually make an advertisement?",
+						"Here's a challenge for you.",
+						"Presenting ADMAK, an event to fire your creativity."
+					],
+					"rules":[
+						"Each team comprises of 3-6 participants. ",
+						"20 minutes will be allocated to all groups for preparing their advertisement. The length of the advertisement must be less than 5 minutes. Participants will be penalized for exceeding the time limit. ",
+						"The advertisement can be performed in Hindi, English or a combination of the two. ",
+						"Points will be deducted for plagiarism. ",
+						"Each team will be given one item that will be the central product used in their advertisement. The items will be allotted via chits. ",
+						"A few other props will be provided for use in the advertisement. Extra points will be rewarded for their appropriate usage.",
+						"Each team must come up with a catchphrase/jingle that relates to their item and it must be incorporated in the advertisement. ",
+						"Obscenity is not allowed and will lead to immediate disqualification. ",
+						"The decision of the judges is final. ",
+						"The Organizing Committee has the right to mend rules, disqualify entries or cancel or cut-short the event."
+					],
+					"judging_criteria":[
+						"Spontaneity",
+						"Content",
+						"Adherence to the topic",
+						"On-stage presentation",
+						"Creativity",
+						"Coordination",
+						"Overall appeal",
+						"Do not exceed the time limit.",
+						"Negativve marks will be provided for the things mentioned above.",
+						"Decision of the judges will be final and binding",
+						"(Caution should be taken to refrain from displaying obscenity, violence, prejudice, defamation, plagiarism etc. )"
+					],
+					"registration_fees":"Rs. 100 per person",
+					"event_contact":[
+						{
+							"name":"Aakarasha S.",
+							"mob":"9971321024"
+						},
+						{
+							"name":"Abhishek Arora",
+							"mob":"8527983347"
+						}
+					]
+				},
+				{
+					"title":"UNO..DOS..ACT!!!",
+					"event_description":[
+						"Think you're the king of spontaneity? Ever been on stage without a script? If yes then come showcase your improv skills in Cinefilia's event UNO DOS ACT.",
+						"Participants will be given an impromptu scene or a situation and they're expected to enact it at that very moment. Each team would get exactly 5 minutes to make or break their act. We aren’t looking for a well prepared act, we are looking for that team who can understand each other so well that they pick up each other’s cues on stage and develop right there on the stage.",
+						"This form of theatre is called IMPROV. "
+					],
+					"rules":[
+						"Each team can comprise of 5-6 members. ",
+						"Topic for the improv will be given on the spot. ",
+						"Preparation time (for discussion and setup) should not exceed 5 minutes. ",
+						"Run time for the act should not exceed 3 minutes. ",
+						"Marks will be deducted if any of the time limit is exceeded. ",
+						"Each member of the team should be a part of the act. ",
+						"Only the props provided, can be used. ",
+						"The Organizing Committee has the right to mend rules, disqualify entries or cancel or cut-short the event."
+					],
+					"judging_criteria":[
+						"Creativity ",
+						"Flow of content ",
+						"Character definition ",
+						"Voice clarity ",
+						"Acting skills ",
+						"Audience feedback ",
+						"Teamwork and understanding ",
+						"(The final decision regarding any of the rules or judging criteria, lies with the judges of the event. If need be, the participants will be notified accordingly, well in time)."
+					],
+					"registration_fees":"Rs. 100 per member",
+					"event_contact":[
+						{
+							"name":"Aayoush Dubey",
+							"mob":"8879115959"
+						},
+						{
+							"name":"Saurav",
+							"mob":"9555958955"
+						}
+					]
+				}
+
+	]
+}

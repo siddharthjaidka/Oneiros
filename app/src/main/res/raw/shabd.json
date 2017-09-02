@@ -1,0 +1,52 @@
+{
+	"name": "Shabd",
+	"events": {
+		"Izhaar": {
+			"event_description": "Poetry is that genre of literature which cascades down to the inner core of the heart effortlessly and is capable of bringing about sea changes in human psyche. Poetry is at its best when recited live before the audiences that is why Hindi club of MUJ is organizing Kavi Sammelan – IZHAAR. We give you a platform, come forward and share the memories of your childhood. Poems could be self written or copied from any author. Come and relive the joys of your childhood again.",
+			"details": "It is an individual event, where the participant will have to recite a poem based on the theme “reminiscence of childhood” the poems should be written fully in Hindi without any slangs/offensive terms. Although the theme is fixed but if there is anything else you would like to express your feeling about, you can! You are open to reciting poems on any topics, whatever expresses your feelings in the best way! The event shall be judged by 2 well known poets, good luck fellas!",
+			"judging_criteria": ["The participant will be judged on the quality of the matter and the way he expresses himself.",
+				"Language used shall be strictly Hindi.",
+				"No objection shall be entertained as the decision of the judges shall be final."
+			],
+			"registration_fee": " Rs 100 per individual.",
+			"oc": [{
+					"name": "Tanuj Jain",
+					"mob": "7733089426"
+				}, {
+					"name": "Anushka",
+					"mob": "8989810284"
+				},
+
+				{
+					"name": "Pratik Joseph",
+					"mob": "9166355282"
+				}
+			]
+		},
+		"Chakravyuh": {
+			"event_description": "Are you fond of movies? Do you believe you know each and every fact about all your favorite movies? Let’s find out !",
+			"details": [{
+					"Music": "This round will consist of 10 questions, where songs of popular movies (Hollywood/Bollywood) will be played and the team members will have to guess and write down the name of the movies on the provided piece of paper."
+				},
+				{
+					"Dialogues": "This round will consist for 15 questions, where dialogues of various movies (Hollywood/Bollywood) will be played and the team members will have to guess and write down the name of the movies on the provided piece of paper."
+				},
+				{
+					"Rapid_Fire": "This round will consist of 20 questions, where random questions will be asked and the team members will have to guess the right answer."
+				}
+			],
+			"judging_criteria": ["Teams need to write down the correct answers of at least 6 questions out of 10 questions in Round 1, to qualify for Round 2.",
+				"Qualified Teams appearing for Round 2 will have to write down the correct answers for at least 8 out of 15 questions to Qualify for Round 3.",
+				"The team who get  maximum points will win"
+			]
+
+		}
+
+	}
+
+
+
+
+
+
+}

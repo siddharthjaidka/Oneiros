@@ -1,0 +1,144 @@
+{
+  "name":"Litmus",
+    "events":[
+    {
+        "event_name": "JUST A MINUTE",
+        "registration_fee": "Rs.100 per person",
+        "event_description": "Just a Minute has evolved from the BBC radio show of the same name (which has been broadcast for the last 40 years!). In the game, a participant tries to speak for up to a minute on the topic, trying not to break any rules, while he/she has 5 other players waiting to interject, so they can then speak.",
+        "rules": [
+            "The Jammers are challenged to speak for one minute on a given subject without Interjections. Interjections are classified as:",
+            {"Interjections":[
+                {"Repetition":"Repetition means the repetition of any word or phrase. Challenges based on very common words such as and are generally rejected except in extreme cases of repetition. Words contained on the subject cards can be repeated any number of times."},
+                {"Hesitation":"Hesitation is watched very strictly: a momentary pause before continuation of the subject can give rise to a successful challenge, as can tripping over words."},
+                {"Deviation":"Deviation means deviating from the subject, but has also been interpreted as deviating from the English language as we know it and deviation from grammar as we understand it."}]},
+            "A Jammer scores a point for making a correct challenge against whoever is speaking, while the speaker gets a point if the challenge is deemed incorrect. A player who makes a correct challenge takes over the subject for the remainder of the minute, or, until he or she is correctly challenged.",
+            "A speaker also scores a point if they are the person speaking when the 60 seconds expires.",
+            "An extra point is awarded when a speaker speaks for the entire minute without being challenged.",
+            {"Penalties":[
+                "Speaking out of turn",
+                "Early/Late start",
+                "Repetition",
+                "Anything that judges classify as time wasting tactics"
+            ]},
+            "The organizing committee has the right to alter the rules, change or cancel the time, venue and the event itself. Decision of the coordinators is final and binding."
+        ],
+        "event_contact":[{"name":"Ankita Doddhilal",
+          "mob":"8378835828"
+          },
+          {
+            "name":"Kartik Jindgar",
+            "mob":"9910416488"
+            }]
+    },
+    {
+        "event_name": "QUIZNOS",
+        "registration_fee": "Rs.150 per team",
+        "event_description": {"members":"Each Team must comprise of two members.",
+            "The quiz will be conducted in 4 rounds:":["The first round will be the qualifying round. Each team will be given answer sheets (with the questions on them). There will be a total of 40 questions, each question being 1 mark. Top 8 teams will qualify on to the next round.",
+
+                "The second round will be a general questions round. There will be a total of 10 questions, each being 5 marks. Questions will be passed if not answered, and marks will not be deducted for wrong answers. The top 6 teams will qualify to the next round.",
+
+                "The third round will be an A/V round, with a total of 12 questions. Each question will be of 4 marks, with negative marking of -2 for wrong answers. Top 4 teams will qualify for the final round.",
+
+                "The final round will be a rapid fire round, with buzzers. There will be a total of 10 questions, with 5 marks each. [Negative marking: -2]"
+
+            ]},
+        "rules": [
+            "There can be no usage of cell phones, internet or any other devices by the participants. If caught using unfair methods, the team will be automatically disqualified.",
+            "In case of tie-breakers, a series of additional questions will be asked. The team with the higher score will then qualify to the next round.",
+            "The quiz masters decision cannot be contested under any circumstances whatsoever.",
+            "No prompts or hints will be entertained from the audience.",
+            "The OC has the right to alter the rules, change or cancel the time, venue & the event itself. Decision of the coordinators is final and binding."
+        ],
+        "event_contact":[{"name":"Aakash Kalra",
+          "mob":"9711106474"
+          },
+          {
+            "name":"Krishna Chaturvedi",
+            "mob":"7297997935"
+
+            },
+            {
+              "name":"Avinash Lamba",
+              "mob":"9660396983"
+              }]},
+    {
+        "event_name": "SPELL BEE",
+        "registration_fee": "Rs.100 per person",
+        "event_description": ["“Words cast spells, and thats why it is called SPELLING”",
+            "Litmus invites you to participate in the Spell Bee competition in Oneiros, 2017. It will be a brilliant platform to test your spelling skills in three very easy and enthralling rounds."],
+        "rules": [
+            "The event will consist of three separate rounds with the first round being an elimination round. A set of 20 words will be called out and the participants will have to spell out each word on a piece of paper, a time of 15 seconds will be given per word, with each word being repeated only twice. Half of the participants of the total number will qualify for the next round, on the basis of their scores.",
+            "The second round will also be an elimination round where each participant will have to come on stage and spell out the maximum number of words that he/she can in 60 seconds. Each correct spelling will give the participant 5 points. The 5 participants with the highest score will then qualify for the third and final round.",
+            "The third round will be a buzzer round where all 5 participants will be given a buzzer. A word will be called out and the participant who presses his/her buzzer first will be given the opportunity to answer. In case of a correct answer the participant will get 5 points, but in case of a wrong answer the participant will lose 2 points. Also, the question will not be passed. The participants will be asked 10 spellings and at the end of this round the winner and runner up will be selected on the basis of the scores.",
+            "In case there is a need of a tie-breaker, one spelling will be given to the participants after the particular round, and whoever answers first and correctly, will qualify. The participants can ask for the meaning, origin or the etymology of any word.",
+            "The OCs have the right to alter the rules, change or cancel the time, venue and the event itself. The decision of the coordinators is final and binding."
+        ],
+        "event_contact":[{"name":"Kavleen Sabharwal",
+          "mob":"8582807713"
+          },
+          {
+            "name":"Atmadip",
+            "mob":"9660299067"
+            }]
+
+    },
+    {
+        "event_name": "VOICE OVER",
+        "registration_fee": "Rs.150 per team",
+        "event_description": "In this event participants will be given a video clip, the audio would be muted. The participants will have a time duration of 10 minutes for preparation, in which they are supposed to script the scene. After the preparation they will be expected to mimic the scripts lines in coherence to the video that would be running in the background.",
+        "rules": [
+            "A team will have two participants.",
+            "The judgment criteria will be: Creativity, Logic, entertainment, coherence of dialogues with the video, clarity of the plot.",
+
+            "The organizing committee has the right to alter the rules, change or cancel the time, venue and event itself. Decision of the coordinators is final and binding."
+        ],
+        "event_contact":[{"name":"Ishita Sinha",
+          "mob":"7632008795"
+          },
+          {
+            "name":"Aditya Chandla",
+            "mob":"9466888182"
+            }]
+
+    },
+    {
+        "event_name": "PLETHORA OF PENS",
+        "registration_fee": "Rs.100 per person",
+        "event_description":["This is a writing event. You will be given a superhero and villain, with their characteristics, and you will have to write a plot related to them.",
+            "For the title, you will be shown a famous book cover with the set background.",
+            "The organizing committee has the right to alter the rules, change or cancel the time, venue and event itself. Decision of the coordinators is final and binding."],
+            "event_contact":[{"name":"Ayush Jamjute",
+              "mob":"9769357550"
+              },
+              {
+                "name":"Nishi Taneja",
+                "mob":"9660229032"
+                }]
+
+    },
+    {
+        "event_name": "PICTIONARY",
+        "registration_fee": "Rs.150 per team",
+        "event_description": "A word guessing game where the teammates have to guess the word (animal/object/places/monuments) their teammate is trying to convey by channelling in their inner Picasso.",
+        "rules": [
+            "Each team member will have to take turns going up to the board.",
+            "Time limit will be 60 secs",
+            "Three rounds: Movies/ TV shows,Books,Places/Monuments+ Movies+ Tv shows",
+            "The team with the max number of hits will win.",
+                  "The organizing committee has the right to alter the rules, change or cancel the time, venue and event itself. Decision of the coordinators is final and binding.",
+            "Filtering of teams will be decided based on the number of participants.",
+            "Verbal communication is not permitted.",
+            "Expected duration of the event: 2 hours."
+        ],
+        "event_contact":[{"name":"Aripra Pandey",
+          "mob":"9660228670"
+          },
+          {
+            "name":"Karthik Agarwal",
+            "mob":"9948180953"
+            }]
+
+
+
+    }]}

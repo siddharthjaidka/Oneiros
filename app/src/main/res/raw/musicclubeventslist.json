@@ -1,0 +1,420 @@
+{
+    "name":"The Music Club",
+    "events":[
+    {
+        "event_name":"RAPSODY",
+        "event_type":"Rap Competition",
+        "event_description":[
+            "Rap motivates, humors and liberates people through poetry.",
+            "Rap has been an integral part of hip hop since the culture's early years.",
+            "RapSody is a platform for underground rappers to showcase their artistry and skills in spitting rhymes.",
+            "We welcome rappers from around different cities, backgrounds and cultures to be a part of this movement and make Rap Wars more fun and entertaining at the same time. ",
+            "So, who has got that fire? Who owns the mic? Show them all, what you can do!"
+        ],
+        "rules": {
+            "preliminary_round": {
+                "title": "Preliminary Round",
+                "preround": [
+                    "Time limit – 90 seconds.",
+                    "No language barrier.",
+                    "No backing track.",
+                    "The participant may freestyle, use original content (preferred) or use content from other songs."
+                ]
+            },
+            "final_round": {
+                "title":"Final Round",
+                "finalround":[
+                    "1. Time limit – 2-3 minutes.",
+                    "2. Participant would be given a backing track to perform impromptly on against each other",
+                    "3. The participant may freestyle, use original content (preferred) or use content from other songs.",
+                    "4. Four Participants will be selected for a semi-final round comprising of 2 face-offs and the winners will move on to the final round."
+                ]
+            },
+            "general_rules": {
+                "title": "General Rules",
+                "rules":[
+                    "No dissing/insulting other contestants or the judges.",
+                    "The decision of the judges will be final and binding in all cases.",
+                    "The participant must strictly abide by the given time limit.",
+                    "The Organizing Committee has the right to mend rules, disqualify entries or cancel the event prior to its initiation."
+                ]
+            },
+            "judging_criteria": {
+                "title": "Judging Rules",
+                "criteria": [
+                    "Technique",
+                    "Originality ",
+                    "Rhythm",
+                    "Enunciation"]
+            },
+            "registration_fee": {
+                "title":"Registration Fee",
+                "regfee":["₹150 per participant"]
+            },
+            "event_details":[
+              {
+                "name":"Adhiraj Mani",
+                "mob":"8826252398"
+
+              },
+              {
+                "name":"Samriddhi Kohli",
+                "mob":"9660407467"
+              }
+            ]
+        }
+    },
+    {
+        "event_name":"WOODSTOCK",
+        "event_type":"Instrumental Competition",
+        "event_discription":[
+            "I have been imitated so well I have heard people copy my mistakes. - Jimi Hendrix",
+            "The Instrumental competition is here to make its mark.",
+            "Blaze a trail on stage and exuberate brilliance."
+        ],
+        "rules": {
+            "round_1": {
+                "title": "round 1",
+                "round1": [
+                    "Backing tracks are allowed.",
+                    "Keyboard and Drums will be provided.",
+                    "Time Limit is 7 minutes including Sound-Setup.",
+                    "The participant must strictly abide by the given time limit.",
+                    "There can be a maximum of 3 people in a performance.",
+                    "The decision of the judges will be final and binding.",
+                    "The Organizing Committee has the right to mend rules, disqualify entries or cancel the event prior to its initiation."
+                ]
+            },
+            "judging_criteria": {
+                "title": "Judging Rules",
+                "criteria": [
+                    "Timing/Tightness",
+                    "Technique/Skill",
+                    "Stage Presence",
+                    "Creativity"]
+            },
+            "registration_fee": {
+                "title":"Registration Fee",
+                "regfee":["₹150 per participant"]
+            },
+            "event_details":[
+              {
+                "name":"Shivang Pawar",
+                "mob":"7023704087"
+
+              },
+              {
+                "name":"Devansh Shrivastava",
+                "mob":"9799770113"
+              }
+            ]
+        }
+    },
+    {
+        "event_name":"FUNTAKSHARI",
+        "event_type":"Antakshari",
+        "event_discription":[
+            "An event that does not need any introduction. We present, FUNTAKSHARI, the Antakshari event where we guarantee you loads of fun. So be a part of this event filled with thrill and excitement where we test your knowledge of Bollywood music industry.",
+            "Even if you're a singer or not, we will entertain all you movie buffs.Think you have got what it takes to be the champ? ‘Cause the event, though entertaining, would be hard to crack!"
+        ],
+        "rules": {
+            "title": "rules",
+            "rules": [
+                "A team must have a 3-4 members.",
+                "There will be 4 rounds in total, each one offering a different challenge. Only Bollywood songs are allowed.",
+                "Repetition of songs is not allowed in any of the rounds.",
+                "If a team is not able to answer correctly, the question may be passed to the next team depending on the round.",
+                "Songs should be lyrically correct. Although, minor mistakes might be overlooked.",
+                "Judging criteria will depend on the rules of each round. However there is no overall negative marking.",
+                "Proper code of conduct is expected from the participating teams.",
+                "Use of mobile phones or any other device is strictly prohibited.",
+                "Rules of each round will be disclosed before the event.",
+                "The Organizing Committee has the right to mend rules, disqualify entries or cancel the event prior to its initiation."
+            ]
+        },
+        "registration_fee": {
+            "title":"Registration Fee",
+            "regfee":["₹400 per team"]
+        },
+        "event_details":[
+          {
+            "name":"Shivansh Aggrawal",
+            "mob":"9582083873"
+
+          },
+          {
+            "name":"Reema Saxena",
+            "mob":"9660419332"
+          }
+        ]
+    },
+    {
+        "event_name":"TWICE THE VOICE",
+        "event_type":"Duet Singing",
+        "event_discription":[
+            "Hear the harmonies collide as you embark on a journey with your partner to leave the crowd behind with the consonance of two voices. Realize the symmetry and manipulate it as you work towards a common goal of achieving rhythmic resonance, as you show off your chemistry.",
+            "SO WHAT’S STOPPING YOU",
+            "Get up, get set and get going. Sing your heart out!"
+        ],
+        "rules": {
+            "round_final": {
+                "title": "Final Round",
+                "roundfinal": [
+                    "Time limit is 5 minutes, including the set up time.",
+                    "At most two accompanist or karaoke is allowed.",
+                    "If time limit is exceeded, negative marks would be awarded.",
+                    "Reading the lyrics is not allowed.",
+                    "The decision of the judges is final and binding.",
+                    "The Organizing Committee has the right to mend rules, disqualify entries or cancel the event prior to its initiation.",
+                    "Only Keyboard will be provided for the participants.",
+                    "The contestants are required to bring the karaoke track in a pen drive or in mobile phones."
+                ]
+            },
+            "judging_criteria": {
+                "title": "Judging Rules",
+                "criteria": [
+                    "Song Selection",
+                    "Technicalities",
+                    "Vocal Range",
+                    "Stage Presence"]
+            },
+            "registration_fee": {
+                "title":"Registration Fee",
+                "regfee":["₹200 per duet"]
+            },
+            "event_details":[
+              {
+                "name":"Ishan Rawat",
+                "mob":"7010035450"
+
+              },
+              {
+                "name":"Rashee Chandurkar",
+                "mob":"9660391164"
+              }
+            ]
+        }
+    },
+    {
+        "event_name":"ENSEMBLE",
+        "event_type":"Group Singing",
+        "event_discription":[
+            "It is fun, if you are more than one! So calling out all the music enthusiasts, come along with the best of your buddies and be a part of this group singing event where you’ve got the stage to let the artist inside you out at its fullest.",
+            "So whether it’s your music maestro friend or the one who can just hum to the rhythm, bring ‘em all and let the melodies magnify!"
+        ],
+        "rules": {
+            "title": "rules",
+            "rules": [
+                "Minimum of 4 vocalists are compulsory.",
+                "Maximum of 4 accompanists allowed.",
+                "Each group will be allotted 10 minutes for their performance. (Including setup and sound check)",
+                "The group must strictly abide by the time limit.",
+                "A team member may sing and play an instrument as well. However, such a person would be counted both as a vocalist and an accompanist.",
+                "Drums are not allowed.",
+                "The decision of the judges shall be final and binding in all cases.",
+                "This is a theme based event, the groups have to mention how they chose to interpret the theme before proceeding with their group performance.",
+                "The performance can be a fusion, medley, acapella, etc. There is no language barrier.",
+                "Keyboard will be provided; other instruments have to be brought by the participant.",
+                "The Organizing Committee has the right to mend rules, disqualify entries or cancel the event prior to its initiation."
+            ]
+        },
+        "judging_criteria": {
+            "title": "Judging Rules",
+            "criteria": [
+                "Accordance with the theme. (Converging Extremes)",
+                "Quality of vocals",
+                "Rhythm",
+                "Synchronization",
+                "Overall Impact (Stage Presence)]"]
+        },
+        "registration_fee": {
+            "title":"Registration Fee",
+            "regfee":["Up to 10 people (including the instrumentalists): ₹800 per group.",
+                "Beyond 10 people: ₹100 extra per participant."]
+        },
+        "event_details":[
+          {
+            "name":"Poojitha Konduparti",
+            "mob":"8790954694"
+
+          },
+          {
+            "name":"Gayatri Nair",
+            "mob":"9987251618"
+          }
+        ]
+
+    },
+    {
+        "event_name":"BOLLYWOOD",
+        "event_type":"Bollywood Solo Singing",
+        "event_discription":[
+            "Music has one and singular language of sweetness worldwide and this event is to extract music from all the diverse styles. Bollywood genre is the most common and has a multitude of variety, having the maximum reach in the masses!",
+            "So what are you waiting for? BRACE UP FOR THIS MUSICAL EXTRAVAGANZA! Engross yourself in the soulful rendering of Bollywood music"
+        ],
+        "rules": {
+            "preliminary_round": {
+                "title": "Preliminary Round",
+                "preround": [
+                    "Time Limit is 2 minutes.",
+                    "No accompanist or karaoke allowed.",
+                    "If time limit is exceeded, negative marks would be awarded.",
+                    "Reading the lyrics is not allowed.",
+                    "Decision of the judges is final and binding."
+                ]
+            },
+            "final_round": {
+                "title":"Final Round",
+                "finalround":[
+                    "Time Limit is 5 minutes (Including Sound-Setup).",
+                    "Maximum of 2 Accompanists or a karaoke is allowed.",
+                    "If time limit is exceeded, negative marks would be awarded.",
+                    "Reading the lyrics is not allowed.",
+                    "Decision of the judges is final and binding.",
+                    "The participants are required to bring the karaoke tracks in a pen drive or in mobile phones.",
+                    "Only keyboard will be provided to the participants.",
+                    "The Organizing Committee has the right to mend rules, disqualify entries or cancel the event prior to its initiation."
+                ]
+            }
+        },
+        "judging_criteria": {
+            "title": "Judging Rules",
+            "criteria": [
+                "Song Selection",
+                "Technicalities",
+                "Vocal Range",
+                "Stage Presence"]
+        },
+        "registration_fee": {
+            "title":"Registration Fee",
+            "regfee":["₹150 per participant"]
+        },
+        "event_details":[
+          {
+            "name":"Ankita Tuli",
+            "mob":"7738086399"
+
+          },
+          {
+            "name":"Christy Isadore",
+            "mob":"8989441198"
+          }
+        ]
+
+    },
+    {
+        "event_name":"OCTAVES",
+        "event_type":"Western Solo Singing",
+        "event_discription":[
+            "Fill the air with ardent notes. Sing along, in mellifluous tune. Here's your chance to bedazzle us with your musical talent! Oneiros‘16 presents to you our very own Western Solo Singing Competition. This Event will provide you with a stage where you can showcase your western singing skills.",
+            "So let the melodies proliferate!"
+        ],
+        "rules": {
+            "preliminary_round": {
+                "title": "Preliminary Round",
+                "preround": [
+                    "Time Limit is 2 minutes.",
+                    "No accompanist or karaoke allowed.",
+                    "If time limit is exceeded, negative marks would be awarded.",
+                    "Reading the lyrics is not allowed.",
+                    "Decision of the judges is final and binding."
+                ]
+            },
+            "final_round": {
+                "title":"Final Round",
+                "finalround":[
+                    "Time Limit is 5 minutes (Including Sound-Setup).",
+                    "Maximum of 2 Accompanists or a karaoke is allowed.",
+                    "If time limit is exceeded, negative marks would be awarded.",
+                    "Reading the lyrics is not allowed.",
+                    "Decision of the judges is final and binding.",
+                    "The participants are required to bring the karaoke tracks in a pen drive or in mobile phones.",
+                    "Only keyboard will be provided to the participants",
+                    "The Organizing Committee has the right to mend rules, disqualify entries or cancel the event prior to its initiation."
+                ]
+            },
+            "judging_criteria": {
+                "title": "Judging Rules",
+                "criteria": [
+                    "Song Selection",
+                    "Technicalities",
+                    "Vocal Range",
+                    "Stage Presence"]
+            },
+            "registration_fee": {
+                "title":"Registration Fee",
+                "regfee":["₹150 per participant"]
+            },
+            "event_details":[
+              {
+                "name":"Avantika Sharma",
+                "mob":"9711622016"
+
+              },
+              {
+                "name":"Atharv Dixit",
+                "mob":"8308748222"
+              }
+            ]
+        }
+    },
+    {
+        "event_name":"SUR TAAL",
+        "event_type":"Indian Classical/Traditional Solo Singing",
+        "event_discription":[
+            "Rooted in the antiquity, Indian Classical Music portrays the rich cultural heritage of our country. ",
+            "Sur Taal, like its meaning can be visualized as the light spectrum and the musical notes depict the bright colours of the spectrum.",
+            "This solo event gives you the opportunity to blend the seven notes into an alluring composition and showcase your versatility."
+        ],
+        "rules": {
+            "preliminary_round": {
+                "title": "Preliminary Round",
+                "preround": [
+                    "Time Limit is 2 minutes.",
+                    "Maximum 2 Accompanists are allowed.",
+                    "Any Bollywood or Non-Bollywood Classical/Sufi/Folk/Ghazal/Bhajan can be performed.",
+                    "If time limit is exceeded, negative marks would be awarded.",
+                    "Reading the lyrics is not allowed",
+                    "Decision of the judges is final and binding.",
+                    "Instrument will be there to provide Scale."]
+            },
+            "final_round": {
+                "title":"Final Round",
+                "finalround":[
+                    "Time Limit is 6 minutes (Including Sound-Setup).",
+                    "Maximum of 2 Accompanists or a karaoke are allowed.",
+                    "Any Bollywood or Non-Bollywood Classical/Sufi/Folk/Ghazal/Bhajan can be performed.",
+                    "If time limit is exceeded, negative marks would be awarded.",
+                    "Reading the lyrics is not allowed.",
+                    "Decision of the judges is final and binding.",
+                    "The participants are required to bring the karaoke tracks in a pen drive or in mobile phones.",
+                    "Harmonium/Keyboard/Tabla will be provided to the participants",
+                    "The Organizing Committee has the right to mend rules, disqualify entries or cancel the event prior to its initiation."]
+            },
+
+            "judging_criteria": {
+                "title": "Judging Rules",
+                "criteria": [
+                    "Sur",
+                    "Taal",
+                    "Sound Modulation",
+                    "Stage Presence"]
+            },
+            "registration_fee": {
+                "title":"Registration Fee",
+                "regfee":["₹150 per participant"]
+            },
+            "event_details":[
+              {
+                "name":"Abhinav Misra",
+                "mob":"9044955651"
+
+              },
+              {
+                "name":"Swasti Chaturvedi",
+                "mob":"7376700007"
+              }
+            ]
+        }
+    }]
+}

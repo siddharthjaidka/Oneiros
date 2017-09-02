@@ -1,9 +1,9 @@
 package com.muj.android.oneiros.activities;
 
-import android.os.Bundle;
+import android.os.Handler;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-
+import android.os.Bundle;
 import com.muj.android.oneiros.R;
 import com.muj.android.oneiros.requests_preferences.main_pager_adapter;
 
@@ -32,7 +32,9 @@ public class MainActivity extends AppCompatActivity  {
         PagerViewAdapter= new main_pager_adapter(getSupportFragmentManager());
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
+
         viewPager.setAdapter(PagerViewAdapter);
+        // This will switch the view after showing the user a glimpse of the main register activity
     }
 
 }

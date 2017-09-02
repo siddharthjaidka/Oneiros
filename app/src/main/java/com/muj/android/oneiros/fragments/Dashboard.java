@@ -14,6 +14,7 @@ import android.widget.ScrollView;
 
 import com.muj.android.oneiros.R;
 import com.muj.android.oneiros.activities.event_list;
+import com.muj.android.oneiros.club_module.ClubModule;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -35,7 +36,7 @@ public class Dashboard extends Fragment {
 
     @OnClick(R.id.adding_events)
         public void GOTO_EVENTS(){
-        Intent i = new Intent(getContext(),event_list.class);
+        Intent i = new Intent(getContext(),ClubModule.class);
         startActivity(i);
 
     }
