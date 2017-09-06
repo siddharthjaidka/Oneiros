@@ -30,13 +30,13 @@ public class AddData {
 //            try {clubData.setValue(newClub);
 //            }catch (Exception e){}
 //        }
+        //Name,Details,Rules,MinParticipant,MaxParticipant,Fees,FeesMode,JudgingCriteria, Duration
         mDatabase = FirebaseDatabase.getInstance().getReference().child("Events");
         DatabaseReference eventDate;
-        for(int i=0;i<clubs.length;i++){
             eventDate=mDatabase.push();
-            try {eventDate.setValue(newClub);
-            }catch (Exception e){}
-        }
+                newEvent= new Event("Just A Minute","Just a Minute has evolved from the BBC radio show of the same name (which has been broadcast for the last 40 years!). In the game, a participant tries to speak for up to a minute on the topic, trying not to break any rules, while he/she has 5 other players waiting to interject, so they can then speak.","The Jammers are challenged to speak for one minute on a given subject without Interjections. Interjections are classified as:\n\u2022Repetition: Repetition means the repetition of any word or phrase. Challenges based on very common words such as and are generally rejected except in extreme cases of repetition. Words contained on the subject cards can be repeated any number of times.\n\u2022Hesitation: Hesitation is watched very strictly: a momentary pause before continuation of the subject can give rise to a successful challenge, as can tripping over words.\n\u2022Deviation: Deviation means deviating from the subject, but has also been interpreted as deviating from the English language as we know it and deviation from grammar as we understand it.\n\nJammer scores a point for making a correct challenge against whoever is speaking, while the speaker gets a point if the challenge is deemed incorrect. A player who makes a correct challenge takes over the subject for the remainder of the minute, or, until he or she is correctly challenged.\n\nA speaker also scores a point if they are the person speaking when the 60 seconds expires.\n\nAn extra point is awarded when a speaker speaks for the entire minute without being challenged.\n\nPenalties:\n\u2022Speaking out of turn\n\u2022Early/Late start\n\u2022Repetition\n\u2022Anything that judges classify as time wasting tactics\n\nThe organizing committee has the right to alter the rules, change or cancel the time, venue and the event itself. Decision of the coordinators is final and binding.",1,1,100,0,"N/A","N/A",clubUniqueIds[3]);
+                eventDate.setValue(newEvent);
+
 
     }
 }

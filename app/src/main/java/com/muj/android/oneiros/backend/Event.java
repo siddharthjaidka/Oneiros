@@ -14,8 +14,9 @@ public class Event {
     int FeesMode;
     String JudgingCriteria;
     String Duration;
+    String Club;
 
-    Event(String Name,String Details,String Rules,int MinParticipant,int MaxParticipant,int Fees,int FeesMode,String JudgingCriteria,String Duration){
+    Event(String Name,String Details,String Rules,int MinParticipant,int MaxParticipant,int Fees,int FeesMode,String JudgingCriteria,String Duration,String Club){
         this.Name=Name;
         this.Details=Details;
         this.Rules=Rules;
@@ -25,5 +26,6 @@ public class Event {
         this.FeesMode=FeesMode;
         this.JudgingCriteria=JudgingCriteria;
         this.Duration=Duration;
+        this.Club=Club;
     }
 }
