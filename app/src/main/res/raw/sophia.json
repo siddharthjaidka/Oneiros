@@ -1,0 +1,64 @@
+{
+	"name": "Sophia",
+	"events": {
+		"Battleground": {
+			"event_description": "Passionate speaker, good thinker, quick reflex in generating ideas or a potential leader, think and then speak up on the surprise topic given, pick your fate from the topic bowl and speak on it.",
+			"judging_criteria": ["Each team member shall be given three minutes to speak on a topic picked up by him/her by draw of lots (Total: 6 + 2 = 8 minutes).",
+				"A bell will ring at the end of two minutes to indicate that one minute is left to finish his/her speech.",
+				"Another bell will ring at the end of three minutes.",
+				"Marks will be deducted if the speaker exceeds the time limit.",
+				"Participants must carry their own pens.",
+				"Language used shall be strictly English",
+				"No objection shall be entertained as the decision of the Judges shall be final"
+			],
+			"registration_fee": "200 per team (100/participant)",
+			"oc": [{
+				"name": "Devansh Agarwal",
+				"mob": "9660310624/9873204489"
+			}, {
+				"name": "Shounak Bhattacharya",
+				"mob": "9643460090"
+			}]
+		},
+		"Sophia Circle": {
+			"event_description": "Like to discuss what is happening around, have solutions in your mind or do the events around the world bother you? Here is a platform to discuss what is going around in your mind and believe us, this time, your thoughts and ideas will earn you some bucks. Give your best!",
+			"details": "An individual event where a topic will be given with 5 minutes to think and then an open group discussion where a panel of judges will decide the winners. The topic given will be a surprise for the participants and an anchor (from the club) will conduct the whole discussion with the help and supervision of faculty.",
+			"registration_fee": "100 per participant",
+			"judging_criteria": ["The participant should not interrupt one another.",
+				"The participants should challenge one another, but do so respectfully.",
+				"The participant should speak from their own experience, without generalizing.",
+				"The participant will be judged on the quality of matter spoken.",
+				"Verbal as well as non-verbal communication between participants.",
+				"Clarity of thought and presentation of ideas.",
+				"Participants must carry their own pens."
+			],
+			"oc": [{
+				"name": "Neha Kangralkar",
+				"mob": "9482197740"
+			}, {
+				"name": "Divya Bhardwaj",
+				"mob": "988732459"
+			}]
+		},
+
+		"Relive & Revamp": {
+			"description": "Do you have the knack to race against time? Do you want to get the adrenaline surging through your veins? Then relive the past and create your own timeline.  The aim of this game is to survive.",
+			"details": "This is a team event with teams consisting of 3-4 members. There will be a finite number of rounds. In each round, you will be presented with a scenario and then offered two choices. The decisions you make determine whether you survive or perish. You should always base your decisions on nothing more than the desire to keep yourself in existence. Also, each scenario should be taken at face value. At the end of the game you will discover if you have stayed alive or not, although, being a philosophical game, the verdict won't be straightforward. ",
+			"registration_fee": "300 per team (Team of 3-4)",
+			"judging_criteria": ["You must choose the option you think will give yourself the biggest chance of surviving",
+				"The team that reaches the destination fastest wins!",
+				"Your fast thinking and decision making skills will make you the winner",
+				"If there is a tie between two teams, a tie breaker round with a different scenario will be given. The fastest team wins!",
+				"Participants must carry their own pens."
+			],
+			"oc": [{
+				"name": "Sadvansha Munshi",
+				"mob": "9565793777"
+			}, {
+				"name": "Shivam Ghungarde",
+				"mob": "8655299405"
+			}]
+		}
+
+	}
+}

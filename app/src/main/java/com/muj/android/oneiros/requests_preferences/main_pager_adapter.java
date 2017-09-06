@@ -8,6 +8,7 @@ import com.muj.android.oneiros.fragments.Dashboard;
 import com.muj.android.oneiros.fragments.Events;
 /**
  * Created by aesher on 8/24/2017.
+ * Pager Adapter for the main activity
  */
 
 public class main_pager_adapter extends FragmentStatePagerAdapter{
@@ -28,4 +29,6 @@ public class main_pager_adapter extends FragmentStatePagerAdapter{
     public int getCount() {
         return 2;
     }
+
+
 }

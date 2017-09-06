@@ -34,7 +34,7 @@ public class Session {
     }
 
     private void addClubs() {
-        String clubs = "Aperture#Cinefilia#Coreographia#Litmus#Scribbles#Shabd#Sophia#The Music Club";
+        String clubs = "Aperture#cinefilia#Coreographia#Litmus#Scribbles#Shabd#Sophia#The Music Club";
         editor.putString("club", clubs);
         editor.apply();
     }
@@ -86,7 +86,16 @@ public class Session {
         return null;
     }
 
+    //0 - Description, 1 - Duration, 2 - Registration Fee, 3 -Category, 4 - Rules, 5 - jidging criteri, 6 - contact details,7 - starting time
+    // | - main delimeter ^ - sub delimeter + inner delimeter : for contacts and numbers
     public void addClubDetails(){
-
+        String Aperture = "";
+        String Cinefilia = "";
+        String Coreographia = "";
+        String Litmus = "";
+        String Scribbles = "";
+        String Shabbd = "";
+        String Sophia = "";
+        String TMC = "";
     }
 }

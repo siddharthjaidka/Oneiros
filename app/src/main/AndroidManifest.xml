@@ -27,6 +27,11 @@
         <activity android:name=".activities.event_list"
             android:theme="@style/Theme.AppCompat.NoActionBar"/>
 
+        <activity android:name=".club_module.Event_Card_activity"
+            android:theme="@style/EventTheme"/>
+        <activity android:name=".club_module.ClubModule" />
+
+
     </application>
 
 </manifest>

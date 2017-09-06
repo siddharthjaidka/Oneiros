@@ -1,0 +1,123 @@
+{
+  "name":"Coreographia",
+    "events": [{
+    "name": "Nextar: Solo / Duet Dance Competition",
+    "description": [
+        "To dance is to be out of yourself. A bigger, better and more competitive than ever, Nextar awaits spectacular dancers with unmatched passion to perform and rock the stage like there's no tomorrow. So go Solo or Pair Up! And get it in line to join the race to become the NEXTAR."
+    ],
+    "rules": [
+        "Duration of performance in the Preliminary round is 1 minute 30 seconds (for both Solo and Duet)",
+        "Duration of performance in the Final round is",
+        "No additional time will be allotted for rehearsal before the performance.",
+        "Exceeding the time limit mentioned above shall lead to negative marking or may even result in disqualification of the performer(s) by the Chairman of the Jury.",
+        "Use of Talcum Powder on the stage or on the body, or the use of Fire, Candles or any Liquid is strictly forbidden.",
+        "No Props are allowed.",
+        "Theme of the Choreography is free.",
+        "Choice of Music track and Dance form is open for all.",
+        "Music track for Preliminary and Final rounds may be different.",
+        "If the Music track prepared for the Final round is same as the one being used in the preliminary round, the track will be stopped at 1 minute 30 seconds in the Preliminary round.",
+        "Participants are requested to bring their track(s) on at least 3 devices, such as Pen drives and Mobile phones, in order to avoid Technical disturbances.",
+        "No form of Vulgarity or Indecency should be expressed in the performance.",
+        "Misbehavior or Disregard of any rule on part of the participants will not be tolerated and can lead to Disqualification.",
+        "In case of any Irregularity or Unavoidable situation, the Organizing Committee of the Event has the right to Modify or Cancel a performance."
+
+    ],
+    "duration": [
+        "SOLO  2 minutes 30 seconds",
+        "DUET  3 minutes"
+    ],
+    "judging_criteria": [
+        "Performance: Effort, personality",
+        "Technique: Transitions, Cleanliness, Execution",
+        "Choreography: Difficulty, Musicality, Tricks",
+        "Creativity: Originality, Artistic Choices and Dynamics",
+        "Presentation: Crowd Appeal, Impact."
+    ],
+    "event_registration_fees": "Rs.200 fo solo and 400 for duet",
+    "contact": [{
+        "name": "Shrawani Menghal",
+        "mob":"9874771545"
+    },
+        {
+            "name": "Shashwat Rastogi",
+            "mob": "9660680897"
+        }
+    ]
+},
+    {
+        "name": "GROUND ZERO: All Style Hip – Hop Battle",
+        "description": [
+            "Manipal University Jaipur presents GROUND ZERO, an All Style Hip Hop dance battle. Its time to resurface the underground competition for the best All- Style performers. Represent your college in a battle for total dominance.  Winner takes it all!"
+        ],
+        "rules": [
+            "All participants are requested to report 2 hours prior to the commencement of the event.",
+            "Every participant should carry their respective college/school/institution ID's. ",
+            "No participant should indulge in any kind of physical or verbal abuse (slogans on clothing, nicknames etc) at any instance (before during or after event) thereby maintaining the decorum of the event. Any intentional physical contact will result in the competitor’s crew forfeiting the battle. In case of any sort of disturbance created by a participant, a warning will be given to the particular team, and further breaking of rules will lead to disqualification from the event.",
+            "Wearing a pair of shoes is mandatory for the participants.",
+            "No props are allowed.",
+            "The decision of the judges will be final and absolute. Any arguments regarding the results will not be entertained.",
+            "All battle and management related decisions will be in the hands of the Organizing Committee."
+
+        ],
+        "judging_criteria": [
+            "Dance Technique and Execution",
+            "Musicality",
+            "Personality: Character and Expressions",
+            "Creativity and Skills",
+            "Presentation: Crowd Appeal and Impact"
+        ],
+        "details": [
+            "All style hip-hop team battle",
+            "Team limit: 5-10 members",
+            "Max time limit per round: 3 mins"
+        ],
+        "event_registration_fees": "Rs.800 per team",
+        "contact": [{
+            "name": "Aditya Pratap Singh",
+            "mob": "9660249491"
+        },
+            {
+                "name": "Vatsala Verma",
+                "mob": "9910024811"
+            }
+        ]
+    },
+    {
+        "name": "Showcase: Impromptu Solo/Duet",
+        "description": [
+            "The Improv dance challenge for all talented dancers to showcase their skills with a prop to reminisce and enjoy your golden minute of spotlight. Come in 1s, come in 2s, just put on your dancing shoes!"
+        ],
+        "rules": [
+            "On the spot solo/duet event",
+            "All participants must carry their college/institution/school ID’s at all times",
+            "Songs will be allocated on the spot on first-come-first-serve basis",
+            "Participants are recommended to carry earphones/headphones",
+            "Have empty storage space on your mobile devices (Songs will be transferred to the mobile phones)",
+            "No songs will be repeated",
+            "Songs will be allocated only once registration has been completed",
+            "Registrations will close 2 hours prior to the event",
+            "Money will not be refunded once registration has been completed",
+            "All participants are recommended to reach the venue 40 minutes prior to the event",
+            "In case of any Irregularity or Unavoidable situation, the Organizing Committee of the Event has the right to Modify or Cancel a performance."
+
+        ],
+        "judging_criteria": [
+            "Performance: Effort, personality",
+            "Technique: Transitions, Cleanliness, Execution",
+            "Choreography: Difficulty, Musicality, Tricks",
+            "Creativity: Originality, Artistic Choices and Dynamics",
+            "Presentation: Crowd Appeal, Impact."
+        ],
+        "event_registration_fees": "Rs.100 per member",
+        "contact": [{
+            "name": "Kanika Jain",
+            "mob": "9660204230"
+        },
+            {
+                "name": "Rhythm Balooni",
+                "mob": "9660205740"
+            }
+        ]
+    }
+]
+}

@@ -1,73 +1,441 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient">
+
+        <android.support.v7.widget.Toolbar
+
+            android:elevation="2dip"
+            android:background="#F44d2a55"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:animateLayoutChanges="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/team"
+                        android:visibility="gone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/nav_logo2"/>
+
+                    <ImageView
+                        android:layout_marginStart="5dip"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/nav_logo"
+                       />
+
+                </LinearLayout>
+
+        </android.support.v7.widget.Toolbar>
+
+
+<FrameLayout
+    android:layout_marginTop="15dip"
+    android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-
-
-<ScrollView
-    android:id="@+id/circular"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content">
-    <LinearLayout
+    <android.support.v7.widget.CardView
+        android:animateLayoutChanges="true"
+        android:id="@+id/card"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:weightSum="40"
-        android:orientation="vertical"
-        >
-        <LinearLayout
-            android:orientation="horizontal"
-            android:id="@+id/one"
+        android:layout_height="match_parent"
+        android:layout_marginTop="14dip"
+        android:layout_marginStart="15dip"
+        android:layout_marginEnd="15dip"
+        android:layout_marginBottom="50dip"/>
+
+
+
+    <ScrollView
+        android:scrollbars="none"
+        android:animateLayoutChanges="true"
+        android:visibility="gone"
+        android:id="@+id/scrollview"
         android:layout_width="match_parent"
-        android:layout_height="170dp"
-            android:background="#885f7f"
-        android:layout_weight="5" />
+        android:layout_height="match_parent">
         <LinearLayout
+            android:gravity="center_horizontal"
+            android:animateLayoutChanges="true"
             android:layout_width="match_parent"
-            android:layout_height="170dp"
-            android:background="#d0c490"
-            android:layout_weight="5"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="170dp"
-            android:background="#13b0a5"
-            android:layout_weight="5"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="170dp"
-            android:background="#885f7f"
-            android:layout_weight="5"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="170dp"
-            android:background="#d0c490"
-            android:layout_weight="5"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="170dp"
-            android:background="#13b0a5"
-            android:layout_weight="5"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="170dp"
-            android:background="#885f7f"
-            android:layout_weight="5"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="170dp"
-            android:background="#d0c490"
-            android:layout_weight="5"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="170dp"
-            android:background="#13b0a5"
-            android:layout_weight="5"/>
-    </LinearLayout>
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dip"
+            android:orientation="vertical">
 
-</ScrollView>
+            <android.support.v7.widget.CardView
+                android:visibility="gone"
+                android:id="@+id/adding_Executive"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dip"
+                android:layout_marginEnd="15dip"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="14dip"
+                app:cardBackgroundColor="#3a1c35">
+
+                <LinearLayout
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:animateLayoutChanges="true"
+                        android:id="@+id/hide_EC"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="20dip"
+                        android:layout_marginStart="25dip"
+                        android:layout_marginTop="20dip">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:id="@+id/circleImageView2"
+                            android:layout_width="110dip"
+                            android:layout_height="110dip"
+                            android:src="@drawable/avatar_ash" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Advisory Committee"
+                            android:textColor="@color/white"
+                            android:textSize="22sp"
+                            android:layout_centerVertical="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_toEndOf="@+id/circleImageView2"
+                            android:layout_marginStart="7dip" />
+
+                    </RelativeLayout>
 
 
+                    <LinearLayout
+                        android:visibility="gone"
+                        android:layout_marginTop="10dip"
+                        android:id="@+id/expand_EC"
+                        android:layout_gravity="center"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="20dip">
+
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <de.hdodenhof.circleimageview.CircleImageView
+                                android:layout_width="70dip"
+                                android:layout_height="70dip"
+                                android:src="@drawable/avatar_ash"/>
+                            <TextView
+                                android:layout_marginStart="40dip"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center"
+                                android:textColor="@color/white"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="SIDDHART JAIDKA\n (Advisor To the Committee)"/>
+
+                        </LinearLayout>
+
+
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+
+            </android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+
+
+
+
+
+            <android.support.v7.widget.CardView
+                android:visibility="gone"
+                android:animateLayoutChanges="true"
+                android:id="@+id/adding_CC"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dip"
+                android:layout_marginEnd="15dip"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="14dip"
+                app:cardBackgroundColor="#3a1c35"
+                android:layout_marginTop="30dip">
+
+                <LinearLayout
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/hide_CC"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="20dip"
+                        android:layout_marginStart="25dip"
+                        android:layout_marginTop="20dip">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:id="@+id/circleImageView3"
+                            android:layout_width="110dip"
+                            android:layout_height="110dip"
+                            android:src="@drawable/avatar_ash" />
+
+                        <TextView
+
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Core Committee"
+                            android:textColor="@color/white"
+                            android:textSize="23sp"
+                            android:layout_marginStart="28dp"
+                            android:layout_centerVertical="true"
+                            android:layout_toEndOf="@+id/circleImageView3" />
+
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:visibility="gone"
+                        android:layout_marginTop="10dip"
+                        android:id="@+id/expand_CC"
+                        android:layout_gravity="center"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="20dip">
+
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <de.hdodenhof.circleimageview.CircleImageView
+                                android:layout_width="70dip"
+                                android:layout_height="70dip"
+                                android:src="@drawable/avatar_ash"/>
+                            <TextView
+                                android:layout_marginStart="40dip"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center"
+                                android:textColor="@color/white"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="SIDDHART JAIDKA\n (Advisor To the Committee)"/>
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <de.hdodenhof.circleimageview.CircleImageView
+                                android:layout_width="70dip"
+                                android:layout_height="70dip"
+                                android:src="@drawable/avatar_ash"/>
+                            <TextView
+                                android:layout_marginStart="40dip"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center"
+                                android:textColor="@color/white"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="SIDDHART JAIDKA\n (Advisor To the Committee)"/>
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <de.hdodenhof.circleimageview.CircleImageView
+                                android:layout_width="70dip"
+                                android:layout_height="70dip"
+                                android:src="@drawable/avatar_ash"/>
+                            <TextView
+                                android:layout_marginStart="40dip"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center"
+                                android:textColor="@color/white"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="SIDDHART JAIDKA\n (Advisor To the Committee)"/>
+
+                        </LinearLayout>
+
+
+
+                    </LinearLayout>
+                </LinearLayout>
+
+
+
+            </android.support.v7.widget.CardView>
+
+
+
+
+
+            <android.support.v7.widget.CardView
+                android:visibility="gone"
+                android:layout_marginTop="30dip"
+                android:id="@+id/adding_OC"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dip"
+                android:layout_marginEnd="15dip"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="14dip"
+                app:cardBackgroundColor="#3a1c35">
+
+                <LinearLayout
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/hide_OC"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="20dip"
+                        android:layout_marginStart="25dip"
+                        android:layout_marginTop="30dip">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:id="@+id/circleImageView5"
+                            android:layout_width="110dip"
+                            android:layout_height="110dip"
+                            android:src="@drawable/avatar_ash" />
+
+                        <TextView
+
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Organising Committee"
+                            android:textColor="@color/white"
+                            android:textSize="21sp"
+                            android:layout_centerVertical="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_toEndOf="@+id/circleImageView5"
+                            android:layout_marginStart="7dip" />
+
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:visibility="gone"
+                        android:layout_marginTop="10dip"
+                        android:id="@+id/expand_OC"
+                        android:layout_gravity="center"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="20dip">
+
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <de.hdodenhof.circleimageview.CircleImageView
+                                android:layout_width="70dip"
+                                android:layout_height="70dip"
+                                android:src="@drawable/avatar_ash"/>
+                            <TextView
+                                android:layout_marginStart="40dip"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center"
+                                android:textColor="@color/white"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="SIDDHART JAIDKA\n (Advisor To the Committee)"/>
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <de.hdodenhof.circleimageview.CircleImageView
+                                android:layout_width="70dip"
+                                android:layout_height="70dip"
+                                android:src="@drawable/avatar_ash"/>
+                            <TextView
+                                android:layout_marginStart="40dip"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center"
+                                android:textColor="@color/white"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="SIDDHART JAIDKA\n (Advisor To the Committee)"/>
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <de.hdodenhof.circleimageview.CircleImageView
+                                android:layout_width="70dip"
+                                android:layout_height="70dip"
+                                android:src="@drawable/avatar_ash"/>
+                            <TextView
+                                android:layout_marginStart="40dip"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center"
+                                android:textColor="@color/white"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="SIDDHART JAIDKA\n (Advisor To the Committee)"/>
+
+                        </LinearLayout>
+
+
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</FrameLayout>
 
 
 </LinearLayout>

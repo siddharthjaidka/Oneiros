@@ -1,0 +1,40 @@
+{
+	"name":"cinefilia-shabdh",
+	"events": [{
+		"name": "Qissa-e-Dastan",
+		"description": [
+			"“There are too many idea and things and people, too many directions to go. I was starting to believe the reason it matters care passionately about something is that it whittles the world down to more manageable size.”-Charlie Kaufman (From Adaption)",
+			"We all have some stories to share, we all wanted to be storytellers at some point of time in our lives. Why not pen it down and mark it up with others, why not subject your emotions to the expression. We bring you a stage where we all storytellers unite to mark our thoughts and emotions to subject the art of storytelling."
+		],
+		"rules": [
+			"The event is strictly online, hence last day of submission of your script is the second day of the Fest, i.e. _______’2017",
+			"The script should be original and creative, Plagiarism is not tolerated under any circumstances.",
+			"The script preferably should be based on the theme of the fest,_________________. ",
+			"You can start submitting your scripts by 1st Oct. 2017",
+			"There is complete creative liberty, it’s the storytelling which counts.",
+			"The language subjected for content can be either English or Hindi. ",
+			"The Organizing Committee has the right to mend rules, disqualify entries or cancel or cut-short the event",
+			"Decisions of the jury are final and no requests for reconsideration will be entertained.",
+			"All participants are supposed to mail their entries to the email id provided below."
+		],
+		"email_id": "shabdcluboc@googlegroups.com",
+		"judging_criteria": [
+			"Content",
+			"Creativity",
+			"Plot,character development etc.",
+			"Storytelling capabilities",
+			"Realism"
+		],
+		"event_registration_fees": "Rs.100 per script",
+		"contact": [{
+				"name": "Pratyushraj Singh Sisodia(Cinefilia)",
+				"mob": "9479857756"
+			},
+			{
+				"name": "Arjun Gupta(Shabd)",
+				"mob": "8199999453"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"name": "scribbles",
+	"events": [{
+			"name": "Style the Stamp",
+			"event_description": ["It is an event based on the theme of reminiscence.",
+				"Have you seen the post stamps in your childhood? It’s the same thing you have to design but in a funky way. But you have to use minimum colours and how they can be used to recreate the historical things into modern art.",
+				"You can use two ways-Present the modern things in retro way or historical things in modern way."
+			],
+			"rules": ["It is a painting event and a single participation event.", "The painting should be entirely within the theme provided", "No external help is permitted.", "The materials will be provided at the beginning of the event that will be equal for all.", "No extra time will be provided.", "Anyone found using unfair means or in violation of any of the above-mentioned rules and regulations will be disqualified immediately.", "The Organizing Committee has the right to mend rules, disqualify entries or cancel or cut-short the event.", "Time is 1 hr and 15 min"],
+			"registration_fee": "100 rs. per participant",
+			"oc": [{
+					"name": "Shefali Kulshrestha",
+					"mob": "9660210545/9540312744"
+				},
+				{
+					"name": "Mehul Jhaver",
+					"mob": "9100940979"
+				}
+			]
+
+		},
+		{
+			"name": "Paint O Neck",
+			"event_description": "Team event based on the theme of the fest that is reminiscence. Opportunity for artists to show their creativity through cartooning on t-shirts. All you need to do is present the favourite character from our childhood saying well-known lines from today’s generation. Be funky, show your originality.",
+			"rules": ["White T-Shirt will be provided to all participants before the event.",
+				"T-shirts will be returned to participants along certificates.",
+				"Any untidy work will be disqualified.",
+				"Participants will paint according to any of the given theme.",
+				"Participants will use only FABRIC COLOURS or ACRALYC COLOURS to paint on White T-Shirts.",
+				"All participants will be provided fabric colours (specific colours), brush & all material required for painting.",
+				"Participant can use their own colours and material.",
+				"Single participant is allowed. Otherwise only two participants are allowed.",
+				"Participants will be evaluated for originality, creativity and overall presentation.",
+				"Participants will be given 1 hour and 30 min. to show their creativity and 2 minutes to talk about the same."
+			],
+			"registration_fee": " 200 per Team",
+			"oc": [{
+					"name": "Harshit Narang",
+					"mob": "7065597123"
+				},
+				{
+					"name": "Tanmay Patidar",
+					"mob": "9713611178"
+
+				}
+			]
+		},
+		{
+			"name": "BEST OUT OF WASTE",
+			"event_description": "Best out of waste is the use of how judicially and effectively trash can be used to make something creative and attractive. The use of just 8-10 things that we feel are no longer usable, can help us make some beautiful modern art. Topics will be given on the spot to maintain originality.",
+			"rules": ["Team shall consist of two members only.", "The required waste material and stationery like scissor, thread, etc. should be brought by the participants.",
+				"Waste material could be anything like tetra packs, bottles, newspapers, old utensils, jute material or any second hand items that otherwise would be thrown away.",
+				"The material would be rejected if not found to be a waste product or second hand item",
+				"No ready or semi-finished model or matter would be accepted from participant in competition.",
+				"Participants will be judged on Creativity, Utilization of Resources, Artistic composition & design and Overall Presentation ",
+				"No mobile or Internet means would be allowed to use at the time of Competition.",
+				"The decision of the judges will be considered final and abiding.",
+				" Participants will be given 1 hour and 45 min. to show their creativity and 2 minutes to talk about the same."
+			],
+			"fees": "200 rs. per team",
+			"oc": [{
+				"name": "Parth Sarthi Rawat",
+				"mob": "9993706719"
+			}, {
+				"name": "Shruti Varma",
+				"mob": "9660314791/ 8879560619"
+			}]
+		}
+	]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Aperture",
+  "oc": [{
+      "name": "Tushar Varma",
+      "mob": "9772222757"
+    },
+    {
+      "name": "Simran Manchanda",
+      "mob": "7073848401"
+    },
+    {
+      "name": "Geetika Mittal",
+      "mob": "7597511960"
+    }
+  ],
+  "cc": [{
+    "name": "Shubham Upreti",
+    "mob": "7073527261"
+  }],
+  "duration": "All 3 days of the fest.",
+  "fees": "No Registration fee.",
+  "description": [
+    "Aperture, The Official Photography Club of MUJ brings you the third edition of our three day long annual photography exhibition, FOCUS. The exhibition will feature some of the best photographs captured by the talented shutterbugs of Manipal University Jaipur.",
+    "Photos will be called as entries in an event on Aperture's official Facebook page (​www.facebook.com/aperturemuj​).",
+    "This can be a platform to showcase your talent. ​FOCUS is a celebration of the democratic nature of photography and hence will be an open themed group photo show."
+  ],
+  "categories": [
+    "DSLR/Bridge Photography",
+    "Phone Photography",
+    "Travel Videos",
+    "Photo Manipulation"
+  ],
+  "entry_fee:": "There is no fee of any kind to enter the exhibition. If your image is selected for the exhibition, Aperture will cover all the cost of printing, framing etc. The entrant has the option of taking the printed and/or framed images after the exhibition after paying for the cost incurred in printing and framing.",
+  "rules_and_regulations": [
+    "Entries can be monochrome, black and white or color.",
+    "The images must solely be the work of entrant and the entrant must have the copyright to exhibit these. Aperture reserves the right to accept or refuse work submitted. No individual assessment of images will be made available and the decision of selectors will be final.",
+    "Change of rules and/or time and acceptability of entries are at the discretion of the Organizing Committee member",
+    "Copyright: If the image is selected by Aperture, the entrant agrees and authorizes Aperture to create copies, hang or use on walls/internet, books or publication or in any document and/or media created by Aperture. In such usage, Aperture will give due credit to the participant. Entrant also agrees, that Aperture may use selected/exhibited work to promote photography and/or the photographer at its discretion.",
+    "Please do not mark your images with any kind of watermark (your name, copyright sign etc). Any image containing any watermark will not be considered for the exhibition. 7.) The image submitted by you should not obscene or vulgar and do not contain any identifiable information about you or any third person.",
+    "You have taken adequate permission and rights from the model(s), authority to submit the image for the exhibition.",
+    "Each participant can submit a maximum of 4 images.",
+    "High resolution copy of the photograph should be present with the photo.",
+    "There is no theme for the exhibition. Overall the exhibition should reflect the heterogeneity in creative expression by all those that are participating.Every photograph posted must have the following information along with it.",
+    {
+      "1":"Name",
+      "2":"Course",
+      "3":"Year",
+      "4":"EXIF data (for DSLR/bridge category)",
+      "5":"Location (where the photograph has been clicked.)"
+    }
+    ],
+    "events":[
+      {
+      "name":"Flare",
+      "tagline":"The On-the-Spot Theme Based Photography Competition",
+      "registration_fee":"Rs. 200/- per participant",
+      "oc":[
+        {"name":"Abhishek","mob":"8800350581"},
+        {"name":"Purva Sharma","mob":"7073810098"}
+      ],
+      "duration":"5 Hours",
+      "categories":"DSLR/Bridge",
+      "event_description":"Flare will test the promptness as well as the creativity of photographers. Not only the picture, the idea but also the thought process behind it is required to win this event. Participants will be given 5 hour's time and a theme which will be disclosed on the spot.",
+       "prize":[
+        "2",
+        "Rs. 4000"
+       ],
+       "rules":[
+          "Participants have 5 hours in which they can click and edit photos.",
+          "No filters are allowed for the photographs. Pictures will be allowed straight out of Camera",
+          "Only colored and/or B&W photos are to be submitted.",
+          "Participants cannot put any kind of water mark on their photos.",
+          "If any of the above rule is violated Aperture team will remove the photo from consideration.",
+          "All photos must be submitted in person. No proxy submission will be entertained.",
+          "All the photos must be submitted on or before the given deadline. The organizers have the right to refuse the entry which will be submitted late.",
+          "By agreeing to participate the participant agrees that in case of any dispute arising with regard to the photo credits or objection raised by subject captured in the photographs post submission, APERTURE will not hold responsibility for the same.",
+          "Change of rules and/or time and acceptability of entries are at the discretion of the Organizing Committee members."
+       ]
+    },
+    {
+      "name":"Showdown of Societies",
+      "tagline":"The Inter-College Photography Competition",
+      "registration_fee":"Rs. 100/- per team member.",
+      "oc":[
+        { "name":"Sandeep Talukdar",
+           "mob":"9871576889"
+        },
+        {
+          "name":"Rohan Sood",
+          "mob":"9004388996/8879006238"
+        }
+      ],
+      "categories":[
+        "DSLR/Bridge Camera",
+        "Phone Camera"
+      ],
+      "prize":[
+        "Prizes worth Rs. 5000/¬",
+        "Minimum 2 members; Maximum 5 members per team."
+      ],
+      "event_description":[
+        "You have a story that you want to narrate through your pictures? A photograph has the ability to convey emotions, moods, narratives, ideas and messages – all of which are important elements of telling a story.",
+        "It will be an online photography competition where members from each team will try and narrate a story through their pictures."
+      ],
+      "rules":[
+        "This competition is open to all photography clubs from any college or university.",
+        "The team should have a minimum of 2 members and a maximum of 5 members.",
+        "There is no restriction on number of teams per club/college.",
+        "A photo story can have a maximum of SEVENphotographs and a minimum of TWOphotographs.",
+        "Watermarks are strictly not allowed on any of the photographs. Entries with watermarked photographs will be immediately disqualified.",
+        "Only basic enhancements such as sharpening, contrast adjustments, brightness are allowed. Multiple layering and HDR are not permitted.",
+        "All photos must be submitted in person. No proxy submissions will be entertained.",
+        "All entries must be submitted on or before the given deadline. The winners will be declared for 1stand 2ndposition only.",
+        "By agreeing to participate, the participant agrees that in the case of any dispute, with regard to the ownership or any objection raised by subjects captured in the participant’s photo post submission, APERTURE PHOTOGRAPHY SOCIETY, will not be liable for responsibility of the same.",
+        "The organizers reserve the right to decline entry to participant in case the deadline or the above mentioned rule(s) is violated.",
+        "Change of rules and/or time and acceptability of entries are at the discretion of the Organizing Committee members."
+        ]
+    },
+    {
+        "name":"InstAperture",
+        "tagline":"The Mobile Photography Competition",
+        "registration_fee":"Rs. 100/- per participant",
+        "oc":[
+          {"name":"Shubham Upreti","mob":"7073527261"},
+          {"name":"Tanya Rai","mob":"7073844898"},
+          {"name":"Maheeka Kaistha","mob":"9811052395"}
+        ],
+        "categories":[
+          "Phone only."
+        ],
+        "prize":[
+          "3 positions (each for a theme)",
+          "Prizes worth 3000/-"
+        ],
+        "description":
+          "InstAperture is a phone photography competition. The objective of the participant is to capture photos from a maximum of 2 themes and use the hashtag #INSTAPERTUREMUJ or #relivemuj. Read the rules on www.oneiros.co.in",
+        "rules":[
+          "To make your entry valid the participant must be following “aperturemuj”, the official Instagram handle of the aperture",
+          "Your Instagram account should be public.",
+          "Registration procedure: Please register online at www.oneiros.co.in or at the registration desk,then upload the photo on Instagram with the hashtag #instaperturemuj or #relivemuj , your registration ID and the theme in which you’d like the photo to be judged.",
+          "Usage of inbuilt Instagram filters is allowed",
+          "The participant can take part only in two themes.",
+          "Each participant can upload 3 photos in each of the two or one theme he/she is a part of.",
+          "Use of watermark is prohibited.",
+          "If any of the rules mentioned is violated the participant is deemed to be disqualified.",
+          "By agreeing to participate the participant agrees that in case of any dispute arising with regard to the photo credits or objection raised by subjects captured in the photographs post submission, APERTURE will not hold responsibility for the same.",
+          "Change of rules and/or time and acceptability of entries are at the discretion of the Organizing Committee members."
+          ]
+    }
+  ]
+}

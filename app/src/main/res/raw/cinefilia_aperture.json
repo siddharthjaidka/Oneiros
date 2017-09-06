@@ -1,0 +1,57 @@
+{"name":"cinefilia-aperture",
+	"events": [{
+		"name": "Pandora's Box",
+		"description": [
+			"Pick up a camera. Shoot something. ",
+"No matter how small,",
+"No matter how cheesy,",
+"No matter whether your friends ",
+"and your sister star in it.",
+"Put your name on it",
+"As director.Now you are a director.",
+"Everything after that ",
+"you are just negotiating your budget and your fee.",
+"-James Cameron"
+
+		],
+		"details":["Do you call yourself a passionate lover of classy cinema, do you want to be the initiator of change in the society or do you want to take this world on an adventure? You are free to do any of the above with the help of your lens; you are free to show us what do you want us to see but you have only 30 minutes. Just make a short film or documentary, upload it on youtube and send its link to us before 4th October 2017 11:59 pm."
+],
+		"rules": [
+			"Time limit: 4-minutes-30-minutes",
+"Participants are supposed to upload the film on their youtube channel and the link has to be submitted on are online form.",
+"The film can be in any language.",
+"English subtitles should be provided",
+"There is no restriction on the theme",
+"The link should be sent before 6th October 2017 11:59 pm.",
+"Multiple entries are allowed.",
+"Plagiarism is strictly prohibited",
+"The content of the movie should be appropriate for public screening and thus have no vulgarity.",
+"Entries must be the original work of the entrant and must not infringe third-party's rights.",
+"The organizing committee can, at any stage, disqualify your entry.",
+"Watermarks are strictly not allowed on any of the films. Entries with watermarked films will be immediately disqualified.",
+"The team details are to be submitted in the following format-1. College name, 2. Team member details.",
+"The official mail id for this event would be cinefiliamuj@hmail.com",
+"Participants are required to send the link ion cinefiliamuj@gmail.com as well.",
+"Keep checking the fest website for further information. www.oneiros.co.in"
+],
+		
+		"judging_criteria": [
+			"Creativity",
+			"Direction",
+			"Scripting(Originality)",
+			"Cinematography",
+			"Execution"
+		],
+		"event_registration_fees": "Rs.400 per film",
+		"contact": [{
+				"name": "Ambuj Agrawal",
+				"mob": "8586915820"
+			},
+			{
+				"name": "Mahrishi Bisani",
+				"mob": "9840741386"
+				}
+			]
+		}
+	]
+}
