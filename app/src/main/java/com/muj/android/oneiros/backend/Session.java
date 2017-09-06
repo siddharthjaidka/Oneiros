@@ -55,7 +55,7 @@ public class Session {
 
     public void addEventString() {
 
-        String Aperture = "The Annual Photography Exhibition- FOCUS#Flare -The On-the-Spot Photography Competition #" +
+        String Aperture = "The Annual Photography Exhibition- FOCUS #Flare -The On-the-Spot Photography Competition #" +
                 "Showdown Of Societies - The Inter-College Photography Competition #InstAperture - The Mobile Photography Competition #";
         String Cinefilia = "Aawaz (Street Play Compettion) #Rangmanch (Stage Play Competition) #MONO ACT #Humor Us #Ad-mak #UNO..DOS… ACT!!!";
         String Coreographia = "Nextar: Solo / Duet Dance Competition #GROUND ZERO: All Style Hip – Hop Battle #Showcase: Impromptu Solo/Duet";

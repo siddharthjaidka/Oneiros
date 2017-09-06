@@ -30,7 +30,7 @@
             android:layout_marginTop="5dip"
             android:gravity="center_horizontal"
             android:textSize="19sp"
-            android:text="Aashis Event Of Aashis"
+            android:text="&quot;Art is not what you see, but what you make others see.- Edgar Degas\nScribbles, the Art club of Manipal University Jaipur came in to existence 2 years ago. Since then in all the fests conducted especially the cultural fest, we have a major role to play as we form the design team and every tiny bit of theme based recreation is done by us. Also a lot of interesting events are conducted every now and then and during the fest. Our club is dedicated towards all those who wish to unleash their talent or learn something new for which workshops will be conducted in the coming year."
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
